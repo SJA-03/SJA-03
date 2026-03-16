@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 
 | Date | Competition | Award |
 | :--- | :--- | :--- |
-| **2023.12** | <sub>Kyung Hee Univ.</sub> AI+대학교육 (Ideathon) | 🥈 2nd Place |
-| **2023.11** | <sub>Kyung Hee Univ.</sub> SW Festival | 🎖️ Junior Award(Best among Underclassmen) |
 | **2023.10** | <sub>Kyung Hee Univ.</sub> Hackathon (Khuthon) | 🥉 3rd Place |
+| **2023.11** | <sub>Kyung Hee Univ.</sub> SW Festival | 🎖️ Junior Award(Best among Underclassmen) |
+| **2023.12** | <sub>Kyung Hee Univ.</sub> AI+대학교육 (Ideathon) | 🥈 2nd Place |
+
 
 <br>
 
