@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 ## 📄 About Me
 
 🌱 I'm currently learning in machine learning & deep learning.
+
 🔭 I'm currently working as a machine learning engineer.
+
 🔥 I'm currently interested in LLM and its application.
-👨‍💻 Tech Stack
 
 ## 👨‍💻 Tech Stack
 
