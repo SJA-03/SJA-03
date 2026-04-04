@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 
 ## 📄 About Me
-- 🌱 I'm currently learning in machine learning & deep learning.
-- 🔭 I'm currently working as a machine learning engineer.
-- 🔥 I'm currently interested in LLM and its application
+- 🎓 AI major (3rd year) at Kyung Hee University
+- 🔭 Building end-to-end AI services (Model → API → Frontend)
+- 🌱 Experienced in ML/DL with PyTorch & FastAPI
+- 🔥 Focused on LLM applications (RAG, Agents, AI Systems)
 
 <br>
 
