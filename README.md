@@ -36,12 +36,9 @@ Here are some ideas to get you started:
 ## ☁️ Experience
 
 * **Student Council**, Kyung Hee Univ. SW College `(2022 – )`
-* **[KHUDA 2th (DA/AI Club)](https://github.com/khuda-data)**, Kyung Hee Univ. `(Aug 2022 – Feb 2023)`
-  * CV Track
-* **UMC 5th**, Kyung Hee Univ & <a href="https://github.com/TeamAvAb"><strong>Avab 프론트팀</strong></a> `(Sep 2023 – Feb 2024)`
-  * Web Track
-* **[KHUDA 9th (DA/AI Club)](https://github.com/khuda-data)**, Kyung Hee Univ. `(Mar 2026~)`
-  * AI Engineering Track
+* **[KHUDA 2th (DA/AI Club)](https://github.com/khuda-data)**, CV Track. `(Aug 2022 – Feb 2023)`
+* **UMC 5th**, Web Track & <a href="https://github.com/TeamAvAb"><strong>Avab 프론트팀</strong></a> `(Sep 2023 – Feb 2024)`
+* **[KHUDA 9th (DA/AI Club)](https://github.com/khuda-data)**, AI Engineering Track. `(Mar 2026~)`
 
 <br>
 
