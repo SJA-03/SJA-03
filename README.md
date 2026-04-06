@@ -34,6 +34,12 @@ Here are some ideas to get you started:
 
 <br>
 
+## 📋 Career
+
+* **[포유디지탈](https://imuzmp3.cafe24.com/))**, SI사업팀 인턴 `(2025.10 – 2025.12)`
+
+<br>
+
 ## ☁️ Experience
 
 * **Student Council**, Kyung Hee Univ. SW College `(2022 – )`
