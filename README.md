@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 * **Student Council**, Kyung Hee Univ. SW College `(Mar 2022 – )`
 * **[KHUDA 2th (DA/AI Club)](https://github.com/khuda-data)**, CV Track. `(Aug 2022 – Feb 2023)`
 * **UMC 5th**, Web Track & <a href="https://github.com/TeamAvAb"><strong>Avab 프론트팀</strong></a> `(Sep 2023 – Feb 2024)`
-* **[2026 Jeju Global Space Forum](https://jeju-space-forum.kr/hackathon)**, 우리들의 블루스팀[기후·에너지 위기 대응 Tech Track]. '(Feb 2026)'
+* **[뤼튼(Wrtn) 캠퍼스리더 주관 제2회 Generative AI Ideation 참여]**. `(May 2024)`
+* **[2026 Jeju Global Space Forum](https://jeju-space-forum.kr/hackathon)**, 우리들의 블루스팀[기후·에너지 위기 대응 Tech Track]. `(Feb 2026)`
 * **[KHUDA 9th (DA/AI Club)](https://github.com/khuda-data)**, AI Engineering Track. `(Mar 2026~)`
 
 <br>
