@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## 📋 Career
 
-* **[포유디지탈](https://imuzmp3.cafe24.com/)**, SI사업팀 Intern `(2025.10 – 2025.12)`
+* **[포유디지탈](https://imuzmp3.cafe24.com/)**, SI사업팀 Intern `(Oct 2025 – Dec 2025)`
 
 <br>
 
