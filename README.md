@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 | **2023.10** | <sub>Kyung Hee Univ.</sub> Khuthon (Hackathon) | 🥉 3rd Place |
 | **2023.11** | <sub>Kyung Hee Univ.</sub> SW Festival | 🎖️ Junior Award(Best among Underclassmen) |
 | **2023.12** | <sub>Kyung Hee Univ.</sub> AI+대학교육 (Ideathon) | 🥈 2nd Place |
+| **2026.05** | <sub>Kyung Hee Univ. × Upstage</sub> ICAC 2026 (AI Challenge) | 🏅 Special Award |
 
 
 <br>
