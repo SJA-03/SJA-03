@@ -65,7 +65,5 @@ Here are some ideas to get you started:
 
 #### GitHub Stats
 <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SJA-03&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SJA-03&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
 </div>
