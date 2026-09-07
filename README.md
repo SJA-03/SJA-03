@@ -1,7 +1,18 @@
 # Hi, I'm Jeongan Shin 👋
 
-AI Engineer를 목표로 다양한 AI 시스템과 서비스를 경험하고 있습니다.<br>
-최근에는 **RAG·LLM 기반 AI 시스템의 신뢰성 있는 평가**와 **여러 서비스에 적용 가능한 핵심 AI 기능**을 깊이 있게 설계하는 데 관심을 두고 있습니다.
+I'm an aspiring **AI Engineer** exploring AI systems from experimentation to real-world applications.<br>
+Recently, I've been focusing on **reliable evaluation of RAG/LLM systems** and **reusable AI capabilities that can be integrated across different services**.
+
+<br>
+
+## 📄 About Me
+
+* 🎓 AI major (3rd year) at Kyung Hee University
+* 🤖 Interested in **LLM Applications, RAG, Agentic AI & AI Systems**
+* 🔍 Focused on **reliable evaluation and systematic experimentation**
+* 🧩 Exploring reusable AI capabilities applicable across different services
+* 🛠 Building AI systems with **Python, FastAPI, PyTorch & React**
+
 
 <br>
 
