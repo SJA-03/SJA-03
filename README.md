@@ -59,7 +59,9 @@ Recently, I've been focusing on **reliable evaluation of LLM/RAG systems** and *
 
 * **더치페이로 인한 입/출금 내역 정리 정산 방법을 제공하는 가계부 시스템**
 
-  * Korean Patent
+  * Korean Patent No. / Application No. **10-2024-0003456**
+  * Inventor & Applicant: **Jeongan Shin**
+  * Settlement-aware personal finance system for Dutch-pay transactions
   * **Registered** `(Sep 2026)`
 
 <br>
