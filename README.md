@@ -62,7 +62,7 @@ Recently, I've been focusing on **reliable evaluation of LLM/RAG systems** and *
   * Korean Patent Application No. **10-2024-0003456**
   * Inventor & Applicant: **Jeongan Shin**
   * Personal finance system for reconstructing and organizing transaction records affected by shared-expense settlements
-  * Patent Decision `(Jun 2026)` · **Registered** `(Sep 2026)`
+  * **Patent Decision** `(Jun 2026)` · Registration Pending
 
 <br>
 
