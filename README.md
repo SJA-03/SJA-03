@@ -46,8 +46,10 @@ Korean Patent Application **10-2024-0003456** · Inventor & Applicant: **Jeongan
 
 <br>
 
-📫 **[jashin0607@gmail.com](mailto:jashin0607@gmail.com)**
+## 📫 Contact Me
+Email: jashin0607@gmail.com
 
+<br>
 
 ## 📊 GitHub Stats
 
