@@ -46,12 +46,6 @@ Korean Patent Application **10-2024-0003456** · Inventor & Applicant: **Jeongan
 
 <br>
 
-## 🤖 AI / ML
-
-`LLM` · `RAG` · `Dense Retrieval` · `BM25` · `Reranking`
-
-<br>
-
 📫 **[jashin0607@gmail.com](mailto:jashin0607@gmail.com)**
 
 
