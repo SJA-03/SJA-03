@@ -33,19 +33,33 @@ Inventor & Patentee: **Jeongan Shin**
 
 ## ☁️ Experience
 
-- **KHUDA 2nd**, Computer Vision Track `(Aug 2022 – Feb 2023)`
-- **UMC 5th**, Web / React Track `(Sep 2023 – Feb 2024)`
-- **포유디지탈**, SI사업팀 Intern `(Oct 2025 – Dec 2025)`
-- **2026 Jeju Global Space Forum**, Climate & Energy Tech Track `(Feb 2026)`
-- **KHUDA 9th**, AI Engineer Track `(Mar 2026 – Jul 2026)`
 - **D.COM**, Education Lead & Intranet PM `(2026 – )`
 - **LG Aimers 9th**, LLM Application & Hackathon `(Jun 2026 – Sep 2026)`
+- **KHUDA 9th**, AI Engineer Track `(Mar 2026 – Jul 2026)`
+- **2026 Jeju Global Space Forum**, Climate & Energy Tech Track `(Feb 2026)`
+- **포유디지탈**, SI사업팀 Intern `(Oct 2025 – Dec 2025)`
+- **UMC 5th**, Web / React Track `(Sep 2023 – Feb 2024)`
+- **KHUDA 2nd**, Computer Vision Track `(Aug 2022 – Feb 2023)`
 
 <br>
 
 ## 🛠 Languages & Frameworks
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+### Languages
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+
+### AI
+
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+
+### Backend
+
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+
+### Frontend
+
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 
 <br>
 
