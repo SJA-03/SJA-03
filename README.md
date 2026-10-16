@@ -1,6 +1,6 @@
 # Hi, I'm Jeongan Shin 👋
 
-Aspiring **AI Engineer** interested in **LLM/RAG systems, reliable evaluation, and reusable AI capabilities**.
+Aspiring **AI Engineer** interested in **AI reasoning**, particularly **test-time scaling** and **multi-agent systems**.
 
 - 🎓 3rd-year AI major at **Kyung Hee University**
 - 🔍 Going beyond implementation through **evaluation and experimentation**
