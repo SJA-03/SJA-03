@@ -23,8 +23,9 @@ Aspiring **AI Engineer** interested in **LLM/RAG systems, reliable evaluation, a
 
 **더치페이로 인한 입/출금 내역 정리 정산 방법을 제공하는 가계부 시스템**
 
-Korean Patent Application **10-2024-0003456** · Inventor & Applicant: **Jeongan Shin**  
-**Patent Decision** `(Jun 2026)` · Registration Pending
+**Granted Korean Patent No. 10-3028365** · Registered **Sep 30, 2026**  
+Application No. 10-2024-0003456 · Filed Jan 9, 2024  
+Inventor & Patentee: **Jeongan Shin**
 
 <br>
 
