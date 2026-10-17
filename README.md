@@ -1,7 +1,6 @@
 # Hi, I'm Jeongan Shin 👋
 
 AI student exploring different fields through projects and experimentation.
-
 My current research interests include **AI reasoning**, particularly **test-time scaling** and **multi-agent systems**.
 
 - 🎓 3rd-year AI major at **Kyung Hee University**
